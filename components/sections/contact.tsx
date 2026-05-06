@@ -62,7 +62,6 @@ export function ContactSection() {
           </h2>
           <p className="mt-4 max-w-xl mx-auto text-muted-foreground">
             I&apos;m currently open to new opportunities and collaborations.
-            Feel free to reach out if you&apos;d like to discuss a project or just say hi!
           </p>
         </motion.div>
 
