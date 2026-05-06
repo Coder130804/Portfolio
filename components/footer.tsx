@@ -13,7 +13,7 @@ const footerLinks = [
 
 const socialLinks = [
   { icon: Github, href: "https://github.com/Coder130804", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com/in/asom", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://linkedin.com/in/asom13082004", label: "LinkedIn" },
   { icon: Mail, href: "mailto:somarpita5@gmail.com", label: "Email" },
 ]
 

@@ -65,7 +65,7 @@ const certifications = [
 
 const socials = [
   { name: "GitHub", icon: Github, href: "https://github.com/Coder130804", color: "hover:text-foreground" },
-  { name: "LinkedIn", icon: Linkedin, href: "https://linkedin.com/in/asom", color: "hover:text-blue-500" },
+  { name: "LinkedIn", icon: Linkedin, href: "https://linkedin.com/in/asom13082004", color: "hover:text-blue-500" },
   { name: "Email", icon: Mail, href: "mailto:somarpita5@gmail.com", color: "hover:text-emerald-500" },
 ]
 

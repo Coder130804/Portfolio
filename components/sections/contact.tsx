@@ -14,14 +14,14 @@ const contactLinks = [
   },
   {
     name: "LinkedIn",
-    value: "linkedin.com/in/asom",
-    href: "https://linkedin.com/in/asom",
+    value: "linkedin.com/in/asom13082004",
+    href: "https://linkedin.com/in/asom13082004",
     icon: Linkedin,
     color: "from-blue-600 to-blue-400",
   },
   {
     name: "GitHub",
-    value: "github.com",
+    value: "github.com/Coder130804",
     href: "https://github.com/Coder130804",
     icon: Github,
     color: "from-gray-600 to-gray-400",
